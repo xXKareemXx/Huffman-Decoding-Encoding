@@ -16,5 +16,5 @@ git clone https://github.com/xXKareemXx/huffman-coding.git cd huffman-coding
 ```
 2. **Run the Program:**
 ```bash
-python huffman_coding.py
+python Huffman_Decoding_Encoding.py
 ```
