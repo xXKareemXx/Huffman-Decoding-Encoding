@@ -11,4 +11,5 @@ Accept any alphanumeric input for encoding and decoding.
 
 ## Getting Started
 1. **Clone the Repository:**<br>
-```bash git clone https://github.com/yourusername/huffman-coding.git cd huffman-coding
+```bash
+git clone https://github.com/yourusername/huffman-coding.git cd huffman-coding
