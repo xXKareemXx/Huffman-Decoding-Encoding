@@ -1,0 +1,1 @@
+Here is the huffman full encoidng and decoding program.
