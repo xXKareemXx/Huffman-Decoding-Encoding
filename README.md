@@ -19,3 +19,7 @@ cd Huffman-Decoding-Encoding
 ```bash
 python Huffman_Decoding_Encoding.py
 ```
+3. **Follow On-Screen Instructions:** <br>
+Input the message you want to encode.
+The program will display the Huffman-encoded message.
+Choose to decode the message back to its original form.
